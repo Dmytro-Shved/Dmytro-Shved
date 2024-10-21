@@ -3,7 +3,7 @@
 Ways to contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/d.shved.wrk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.shved.wrk@gmail.com)](d.shved.wrk@gmail.com)
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyfer/)]() -->
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-282C34?style=flat-square&logo=stackoverflow&logoColor=FE7A16&link=https://stackoverflow.com/users/25602023/d-shved)](https://stackoverflow.com/users/25602023/d-shved)
 
 <!-- <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
 <!-- !Redis -->
