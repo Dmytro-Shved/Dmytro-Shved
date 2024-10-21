@@ -1,7 +1,7 @@
 ### Hi :)
 
 Ways to contact me:
-[![Gmail Badge](https://img.shields.io/badge/-seyferseed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.shved.wrk@gmail.com)](d.shved.wrk@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/d.shved.wrk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.shved.wrk@gmail.com)](d.shved.wrk@gmail.com)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyfer/)]() -->
 
 
