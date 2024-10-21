@@ -10,13 +10,13 @@ Ways to contact me:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+<img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
 <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
 <!-- <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/> --> 
 <!-- !VS Code -->
 <!-- !Apache2 -->
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 <!-- !MariaDB --> 
