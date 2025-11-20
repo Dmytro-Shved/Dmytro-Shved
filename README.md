@@ -4,7 +4,7 @@ I’m a self-taught software developer passionate about solving complex problems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/dmytro-shved/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-333?logo=stackoverflow&style=flat-square&logoColor=FE7A16)](https://stackoverflow.com/users/30065272/dmytro-shved)
-[![Gmail](https://img.shields.io/badge/d.shved.wrk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=d.shved.wrk@gmail.com&tf=cm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=d.shved.wrk@gmail.com&tf=cm)
 
 ### Currently learning: 
 
