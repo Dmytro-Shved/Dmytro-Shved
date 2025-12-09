@@ -1,6 +1,6 @@
 ### Hi there, I'm Dmytro Shved
 
-I’m a self-taught software developer passionate about solving complex problems and building user-focused projects with clean, readable, and easily scalable code.
+I’m a software developer passionate about solving complex problems and building user-focused projects with clean, readable, and easily scalable code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/dmytro-shved/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-333?logo=stackoverflow&style=flat-square&logoColor=FE7A16)](https://stackoverflow.com/users/30065272/dmytro-shved)
