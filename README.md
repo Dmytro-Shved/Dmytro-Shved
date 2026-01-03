@@ -26,8 +26,4 @@ I’m a software developer passionate about solving complex problems and buildin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) -->
 
-### Links
-
-[Check my Gourmania project](https://gourmania.net/)
-
 
